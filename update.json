@@ -1,8 +1,8 @@
 {
-  "versionCode": 105,
-  "versionName": "0.2.105",
+  "versionCode": 117,
+  "versionName": "0.2.117",
   "apkUrl": "https://github.com/bobcatfr63/MotoBrain-Releases/releases/latest/download/MotoBrain.apk",
-  "sha256": "e106a1fa473e0c22bfc0280836acd882e1640ca00423c3bb2863eac3ed5efde0",
-  "notes": "Nouvelle version MotoBrain 0.2.105",
+  "sha256": "7042a3c4d2a99616b5db5a48d889f20a69b2161c7350969bc2959598d91e27ee",
+  "notes": "Nouvelle version MotoBrain 0.2.117",
   "mandatory": false
 }
